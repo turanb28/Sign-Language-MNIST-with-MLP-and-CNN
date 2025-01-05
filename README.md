@@ -16,4 +16,4 @@ The primary goal is to:
 5.  **Provide Clear Code:** Offer a well-commented and easy-to-follow PyTorch implementation.
   
 You can find the model [here](https://www.kaggle.com/datasets/datamunge/sign-language-mnist/).
-"# Sign-Language-MNIST-with-MLP-and-CNN" 
+
